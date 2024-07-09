@@ -1,37 +1,40 @@
-# Aplicação de Planejamento de Viagens
+# 🌍✨ Aplicação de Planejamento de Viagens ✈️📅
 
-<img src="./Screenshots/01.png" />
+![Screenshot](./Screenshots/01.png)
 
-[![React](https://img.shields.io/badge/React-17.0.2-blue)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.1.2-blue)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-2.5.0-yellow)](https://vitejs.dev/)
-[![Lucide-React](https://img.shields.io/badge/Lucide--React-0.2.0-green)](https://lucide.dev/docs/lucide-react/)
+[![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.1.2-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-2.5.0-yellow?logo=vite)](https://vitejs.dev/)
+[![Lucide-React](https://img.shields.io/badge/Lucide--React-0.2.0-green?logo=lucide)](https://lucide.dev/docs/lucide-react/)
 
-## Descrição
+## 🌐 Vizualizar Projeto
+🔗 [Veja a aplicação ao vivo](https://planner-sigma-livid.vercel.app/)
+
+## 📜 Descrição
 
 Esta aplicação permite que os usuários planejem viagens convidando amigos por e-mail e especificando detalhes como o destino e a data da viagem.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
-- **Convite por E-mail:** Permite convidar amigos para a viagem enviando um convite por e-mail.
-- **Modal de Convidados:** Abre um modal para gerenciar a lista de convidados.
-- **Detalhamento de Viagem:** Campo para inserir o destino e a data da viagem.
-- **Confirmação de Viagem:** Botão para confirmar a viagem.
+- **📧 Convite por E-mail:** Permite convidar amigos para a viagem enviando um convite por e-mail.
+- **👥 Modal de Convidados:** Abre um modal para gerenciar a lista de convidados.
+- **🌍 Detalhamento de Viagem:** Campo para inserir o destino e a data da viagem.
+- **✅ Confirmação de Viagem:** Botão para confirmar a viagem.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- **React:** Biblioteca JavaScript para construção de interfaces de usuário.
-- **TypeScript:** Superset do JavaScript que adiciona tipos estáticos.
-- **Vite:** Ferramenta de build e desenvolvimento rápida e leve.
-- **Lucide-React:** Biblioteca de ícones para React.
+- **⚛️ React:** Biblioteca JavaScript para construção de interfaces de usuário.
+- **🟦 TypeScript:** Superset do JavaScript que adiciona tipos estáticos.
+- **⚡ Vite:** Ferramenta de build e desenvolvimento rápida e leve.
+- **🔄 Lucide-React:** Biblioteca de ícones para React.
 
-## Instalação
+## 🛠️ Instalação
 
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    cd nome-do-repositorio
+    git clone https://github.com/dvizioon/PLANN-ER.git
+    cd PLANN-ER
     ```
 
 2. Instale as dependências:
@@ -46,7 +49,7 @@ Esta aplicação permite que os usuários planejem viagens convidando amigos por
     npm run dev
     ```
 
-## Utilização
+## 💡 Utilização
 
 1. Abra a aplicação no navegador.
 2. Insira o destino e a data da viagem.
@@ -54,10 +57,9 @@ Esta aplicação permite que os usuários planejem viagens convidando amigos por
 4. Adicione e-mails dos convidados clicando no botão "Quem estará na viagem?".
 5. Convide amigos preenchendo o e-mail e clicando em "Convidar".
 
->[!NOTE]
-> `main.tsx`
+> 📌 **Nota:** Certifique-se de configurar `main.tsx` e `tailwind.config` conforme necessário.
 
-## Códigos Mutaveis
+## 🔧 Códigos Mutáveis
 
 ```tsx
 import React from 'react'
@@ -107,7 +109,7 @@ export default {
  <img src="./Screenshots/02.png" />
  <img src="./Screenshots/03.png" />
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 - App.tsx: Componente principal que contém a lógica e os componentes da aplicação.
 - index.css: Arquivo de estilos globais.
 
@@ -116,6 +118,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 ## Contato
 Autor: Seu Nome
-E-mail: seu-email@example.com
+E-mail: danielmartinsjob@gmail.com
 Agradecimentos
 Agradecemos a todos que contribuíram para este projeto.
