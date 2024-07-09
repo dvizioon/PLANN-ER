@@ -113,11 +113,9 @@ export default {
 - App.tsx: Componente principal que contém a lógica e os componentes da aplicação.
 - index.css: Arquivo de estilos globais.
 
+## Contato
+E-mail: danielmartinsjob@gmail.com
+
 ## Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## Contato
-Autor: Seu Nome
-E-mail: danielmartinsjob@gmail.com
-Agradecimentos
-Agradecemos a todos que contribuíram para este projeto.
